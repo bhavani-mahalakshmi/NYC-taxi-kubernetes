@@ -9,6 +9,7 @@ This document has been designed to explore the pipeline one connection at a time
 The most important part of this project is to understand how data is going to flow from Point A to Point B. This section will answer that question, and white everything may not be obvious on the very first glance, as every step passes, information given over here will start to gain value and help you along the way.
 
 ![](Aspose.Words.9d08f230-e61e-45e6-ad9b-86c77738d35c.002.png)
+<img width="562" alt="image" src="https://github.com/bhavani-mahalakshmi/NYC-taxi-kubernetes/assets/54939056/b5514305-9c63-4a4b-9add-cd44e75a7e45">
 
 **Step 1: Order in the Chaos (20 pts)**
 
